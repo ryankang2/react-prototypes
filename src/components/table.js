@@ -23,7 +23,6 @@ export default (props) => {
             <tbody>
                {tableRows};
             </tbody>
-        
         </table>
     )
 }
