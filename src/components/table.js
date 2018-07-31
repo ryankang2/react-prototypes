@@ -1,6 +1,5 @@
 import React from "react";
 
-
 export default (props) => {
     const tableRows = props.data.map((item, index) => {
         return (
